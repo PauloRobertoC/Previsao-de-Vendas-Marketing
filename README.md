@@ -1,5 +1,6 @@
 # Previsao-de-Vendas-Marketing
 O desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio
+
 O trabalho em Python consistiu em um projeto de ciência de dados para a empresa Hashtag com o objetivo de prever as vendas em um determinado período com base nos gastos em anúncios nas três principais redes que a empresa investe: TV, Jornal e Rádio.
 
 O projeto foi desenvolvido seguindo um passo a passo de um projeto de ciência de dados, começando com o entendimento do desafio, em seguida, o entendimento da área/empresa, extração/obtenção de dados, ajuste de dados (tratamento/limpeza), análise exploratória, modelagem + algoritmos (inteligência artificial) e interpretação de resultados.
